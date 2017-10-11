@@ -1,2 +1,2 @@
 # backward-propagation
-Implementation of Backward Propagation by C#.
+Implementation of Backward Propagation using C#.
