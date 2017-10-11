@@ -1,0 +1,63 @@
+c:\users\atai\documents\visual studio 2015\Projects\BP_TrainningAFunction\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe.config
+c:\users\atai\documents\visual studio 2015\Projects\BP_TrainningAFunction\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe
+c:\users\atai\documents\visual studio 2015\Projects\BP_TrainningAFunction\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.pdb
+c:\users\atai\documents\visual studio 2015\Projects\BP_TrainningAFunction\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csprojResolveAssemblyReference.cache
+c:\users\atai\documents\visual studio 2015\Projects\BP_TrainningAFunction\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Form1.resources
+c:\users\atai\documents\visual studio 2015\Projects\BP_TrainningAFunction\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Properties.Resources.resources
+c:\users\atai\documents\visual studio 2015\Projects\BP_TrainningAFunction\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csproj.GenerateResource.Cache
+c:\users\atai\documents\visual studio 2015\Projects\BP_TrainningAFunction\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.exe
+c:\users\atai\documents\visual studio 2015\Projects\BP_TrainningAFunction\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction1.0\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe.config
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction1.0\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction1.0\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction1.0\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction1.0\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction1.0\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csprojResolveAssemblyReference.cache
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction1.0\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Form1.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction1.0\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Properties.Resources.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction1.0\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csproj.GenerateResource.Cache
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_PartActivity\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe.config
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_PartActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_PartActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_PartActivity\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_PartActivity\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_PartActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csprojResolveAssemblyReference.cache
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_PartActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Form1.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_PartActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Properties.Resources.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_PartActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csproj.GenerateResource.Cache
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivity\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe.config
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivity\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivity\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csprojResolveAssemblyReference.cache
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Form1.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Properties.Resources.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivity\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csproj.GenerateResource.Cache
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivityBatchLearn\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe.config
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivityBatchLearn\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivityBatchLearn\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csprojResolveAssemblyReference.cache
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Form1.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Properties.Resources.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_tanhActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csproj.GenerateResource.Cache
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe.config
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csprojResolveAssemblyReference.cache
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Form1.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Properties.Resources.resources
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csproj.GenerateResource.Cache
+D:\VS2015_project\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe.config
+D:\VS2015_project\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.exe
+D:\VS2015_project\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\bin\Debug\BP_TrainningAFunction.pdb
+D:\VS2015_project\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csprojResolveAssemblyReference.cache
+D:\VS2015_project\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Form1.resources
+D:\VS2015_project\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.Properties.Resources.resources
+D:\VS2015_project\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.csproj.GenerateResource.Cache
+D:\VS2015_project\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.exe
+D:\VS2015_project\BP_TrainningAFunction_SigmoidActivityBatchLearn\BP_TrainningAFunction\obj\Debug\BP_TrainningAFunction.pdb
